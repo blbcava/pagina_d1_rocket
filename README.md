@@ -4,6 +4,8 @@ O projeto consiste em refazer o layout em html e aplicar os estilos em css para 
 
 As tecnologias utilizadas são o HTML5 puro e css3.
 
+Objetivo do projeto
 ![imagem de objetivo do projeto](images/objetivo%20do%20desafio.jpg)
 
+Projeto desenvolvido
 ![imagem do projeto concluído](images/projeto_concluido.jpg)
